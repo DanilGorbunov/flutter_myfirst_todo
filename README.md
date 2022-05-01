@@ -1,7 +1,7 @@
 # flutter_todo
 
 A new Flutter project.
-![Simulator Screen Shot - iPhone 12 Pro - 2022-04-30 at 17 56 24](https://user-images.githubusercontent.com/35400605/166155087-a69c3ce9-5c10-4c83-992e-8de88e8dcd9b.png)
+
 
 ## Getting Started
 
