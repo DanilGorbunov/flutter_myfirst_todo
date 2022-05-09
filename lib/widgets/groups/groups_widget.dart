@@ -6,7 +6,7 @@ class GroupsWidget extends StatelessWidget {
 
   void showForm(BuildContext context) {
     Navigator.of(context).pushNamed('/groups/form');
-  }
+  } // we will move to group form screen
 
   @override
   Widget build(BuildContext context) {
